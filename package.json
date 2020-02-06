@@ -1,0 +1,12 @@
+{
+  "name": "private-spaces-poc",
+  "version": "1.0.0",
+  "description": "Cross region private space POC",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Shawn Kim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
